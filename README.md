@@ -1,7 +1,3 @@
-Based on the contents of the uploaded `hh.zip` file, here's a `README.md` you can use for your **Local Service Management System (UrbanServe)** project:
-
----
-
 # 🛠 UrbanServe – Local Service Management System
 
 UrbanServe is a PHP & MySQL-based platform designed to connect customers with service providers for a variety of local services. It features role-based dashboards for Admins, Service Providers, and Customers, and supports a complete booking, profile, and verification workflow.
